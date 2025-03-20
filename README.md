@@ -14,7 +14,7 @@
 1. Install required Python libraries:  
 ```bash
 pip install youtube-transcript-api
-
+```
 # ⚙️ **How It Works**
 
 ---
